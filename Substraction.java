@@ -1,7 +1,7 @@
 package mypack;
 
 public class Substraction {
-
+//new edit is done
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
       int a=15,b=10,c;
